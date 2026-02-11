@@ -79,7 +79,7 @@ const LoginPage = () => {
         <CardHeader className="text-center pb-2">
           <Link to="/" className="flex items-center justify-center gap-2 mb-6">
             <Scissors className="h-10 w-10 text-primary" />
-            <span className="font-display text-3xl font-bold text-foreground">BarberHub</span>
+            <span className="font-display text-3xl font-bold text-foreground">12Scissors</span>
           </Link>
           <h1 className="font-display text-2xl font-bold text-foreground">
             {step === 'phone' ? 'Welcome Back' : 'Verify Your Phone'}

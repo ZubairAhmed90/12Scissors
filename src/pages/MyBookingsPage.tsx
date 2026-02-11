@@ -189,7 +189,7 @@ const MyBookingsPage = () => {
           </Link>
           <Link to="/" className="flex items-center gap-2">
             <Scissors className="h-6 w-6 text-primary" />
-            <span className="font-display text-xl font-bold text-foreground">BarberHub</span>
+            <span className="font-display text-xl font-bold text-foreground">12Scissors</span>
           </Link>
         </div>
       </nav>
